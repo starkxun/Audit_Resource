@@ -49,6 +49,17 @@
 
 - onChainListen: https://github.com/starkxun/onChainListen/blob/main/usage.md
 
+- fetch_scope.py [immunefi github仓库代码拉取工具](tools/fetch_scope.py)
+
+usage：
+
+```bash
+python3 fetch_scope.py scope-urls.txt          # 按 commit clone 整仓 + 拷贝 in-scope 文件 + 生成清单
+python3 fetch_scope.py scope-urls.txt --files-only   # 只 raw 下载列出的文件(不整仓 clone)
+pbpaste | python3 fetch_scope.py -             # 从剪贴板/stdin 读 URL
+```
+具体方法查看仓库： ///////
+
 
 
 ### 审计记录
