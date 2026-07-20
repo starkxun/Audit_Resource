@@ -47,5 +47,13 @@
 
 
 
+### 审计记录
+
+- Layer3 Smart Contracts [link](https://hackenproof.com/programs/layer3-smart-contracts)
+- NEAR Intents: Smart Contracts [link](https://hackenproof.com/programs/near-intents-smart-contracts)
+- NEAR Intents: Bridges [link](https://hackenproof.com/programs/near-intents-bridges)
+- Arcadia Finance Smart Contracts [link](https://dashboard.hackenproof.com/user/programs/arcadia-finance-company-smart-contracts)
+- Bitexen Smart Contracts [link](https://hackenproof.com/programs/bitexen-smart-contracts)
+- HyperBridge [link](https://dashboard.hackenproof.com/user/programs/hyperbridge-protocol)
 
 
