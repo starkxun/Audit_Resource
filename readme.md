@@ -4,8 +4,12 @@
 ### 项目审计总结
 
 - Whitechain桥审计项目：[桥签名验证与重放审计要点](https://github.com/starkxun/Whitechain-bridge/blob/main/%E5%8F%82%E8%80%83/%E6%A1%A5%E7%AD%BE%E5%90%8D%E9%AA%8C%E8%AF%81%E4%B8%8E%E9%87%8D%E6%94%BE%E5%AE%A1%E8%AE%A1%E8%A6%81%E7%82%B9.md)
+
 - Unitus V2审计项目:  [教学-预言机陈旧性漏洞复盘](https://github.com/starkxun/Unitus-V2-/blob/main/%E6%95%99%E5%AD%A6-%E9%A2%84%E8%A8%80%E6%9C%BA%E9%99%88%E6%97%A7%E6%80%A7%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%9B%98.md)
+
 - deltaprime 审计项目：[预言机集成审计要点（Chainlink + RedStone）](https://github.com/starkxun/deltaprime-smart-contracts/blob/main/%E7%9F%A5%E8%AF%86%E8%A1%A5%E5%85%85/%E9%A2%84%E8%A8%80%E6%9C%BA%E9%9B%86%E6%88%90%E5%AE%A1%E8%AE%A1%E8%A6%81%E7%82%B9.md)
+
+- Dexalot Smart Contracts 审计项目 [批次结算系统里的「状态机不变量绕过」](https://github.com/starkxun/Dexalot_Smart_Contracts/blob/main/docs/%E6%95%99%E5%AD%A6-%E7%8A%B6%E6%80%81%E6%9C%BA%E4%B8%8D%E5%8F%98%E9%87%8F%E7%BB%95%E8%BF%87.md)
 
 ### 教学合约
 
