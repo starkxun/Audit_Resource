@@ -59,5 +59,6 @@
 - Arcadia Finance Smart Contracts [link](https://dashboard.hackenproof.com/user/programs/arcadia-finance-company-smart-contracts)
 - Bitexen Smart Contracts [link](https://hackenproof.com/programs/bitexen-smart-contracts)
 - HyperBridge [link](https://dashboard.hackenproof.com/user/programs/hyperbridge-protocol)
+- LiNEAR Protocol [link](https://dashboard.hackenproof.com/user/programs/linear-protocol)
 
 
